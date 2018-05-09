@@ -1,0 +1,21 @@
+body {
+  background: url(https://images.unsplash.com/photo-1517384084767-6bc118943770?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=5155aef572af3d3772bb701223d38f0b&auto=format&fit=crop&w=334&q=80);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Cormorant Garamond', serif;
+  font-family: 'Armata', sans-serif;
+  padding: 0px;
+}
+
+html {
+  color: green;
+  text-align: center;
+  margin: right;
+  text-decoration: italic;
+}
+
+#navbar {
+  color: limegreen;
+  text-decoration: italic;
+  padding: none;
+}
